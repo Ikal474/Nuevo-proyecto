@@ -1,4 +1,5 @@
 import streamlit as st
+import plotly.express as px
 
 st.title("Mi segunda app con Streamlit")
 st.header("Hola mundo")
